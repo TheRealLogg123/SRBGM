@@ -1,0 +1,9 @@
+FATAL ERROR in
+action number 1
+of  Step Event
+for object Camera:
+
+COMPILATION ERROR in code actionError in code at line 5:   
+} else firstperson == 1 {                      ^at position 21: Assignment operator expected.
+
+

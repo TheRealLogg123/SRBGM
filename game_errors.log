@@ -3,7 +3,7 @@ action number 1
 of  Step Event
 for object Camera:
 
-COMPILATION ERROR in code actionError in code at line 5:   
-} else firstperson == 1 {                      ^at position 21: Assignment operator expected.
+COMPILATION ERROR in code actionError in code at line 60:   
+} until until (p3dc_check(Level.collision_shadow, 0, 0, shadowz, Level.collision_map, 0, 0, 0)==false);           ^at position 10: Unexpected symbol in expression.
 
 

@@ -3,7 +3,7 @@ action number 1
 of  Step Event
 for object Camera:
 
-COMPILATION ERROR in code actionError in code at line 58:   
-shadowz = z   ^at position 2: Variable name expected.
+COMPILATION ERROR in code actionError in code at line 176:   
+```   ^at position 2: Unexpected symbol.
 
 

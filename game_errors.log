@@ -1,9 +1,27 @@
-FATAL ERROR in
+ERROR in
 action number 1
-of  Step Event
+of Draw Event
 for object Camera:
 
-COMPILATION ERROR in code actionError in code at line 176:   
-```   ^at position 2: Unexpected symbol.
+Error in code at line 19:   
+draw_background_part_ext(Shadow,(frame_width*floor(frame)+frame_width) mod back_width,frame_height*camera_angle, frame_width,frame_height, x,y,0.5,0.5,c_white,0.5)                                                                                                      ^at position 101: Unknown variable camera_angle
+
+
+ERROR in
+action number 1
+of Draw Event
+for object Camera:
+
+Error in code at line 19:   
+draw_background_part_ext(Shadow,(frame_width*floor(frame)+frame_width) mod back_width,frame_height*camera_angle, frame_width,frame_height, x,y,0.5,0.5,c_white,0.5)                                                                                                      ^at position 101: Unknown variable camera_angle
+
+
+ERROR in
+action number 1
+of Draw Event
+for object Camera:
+
+Error in code at line 19:   
+draw_background_part_ext(Shadow,(frame_width*floor(frame)+frame_width) mod back_width,frame_height*camera_angle, frame_width,frame_height, x,y,0.5,0.5,c_white,0.5)                                                                                                      ^at position 101: Unknown variable camera_angle
 
 

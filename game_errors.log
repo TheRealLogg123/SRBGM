@@ -1,27 +1,4 @@
-ERROR in
-action number 1
-of Draw Event
-for object Camera:
-
-Error in code at line 19:   
-draw_background_part_ext(Shadow,(frame_width*floor(frame)+frame_width) mod back_width,frame_height*camera_angle, frame_width,frame_height, x,y,0.5,0.5,c_white,0.5)                                                                                                      ^at position 101: Unknown variable camera_angle
-
-
-ERROR in
-action number 1
-of Draw Event
-for object Camera:
-
-Error in code at line 19:   
-draw_background_part_ext(Shadow,(frame_width*floor(frame)+frame_width) mod back_width,frame_height*camera_angle, frame_width,frame_height, x,y,0.5,0.5,c_white,0.5)                                                                                                      ^at position 101: Unknown variable camera_angle
-
-
-ERROR in
-action number 1
-of Draw Event
-for object Camera:
-
-Error in code at line 19:   
-draw_background_part_ext(Shadow,(frame_width*floor(frame)+frame_width) mod back_width,frame_height*camera_angle, frame_width,frame_height, x,y,0.5,0.5,c_white,0.5)                                                                                                      ^at position 101: Unknown variable camera_angle
+COMPILATION ERROR in Script: DCZ2_Map_CreateError in code at line 3:   
+d3d_draw_wall(0,0,0, 512, 0, 1024)                                    ^at position 35: Wrong number of arguments to function or script.
 
 

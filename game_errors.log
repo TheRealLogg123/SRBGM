@@ -1,8 +1,0 @@
-ERROR in
-action number 1
-of  Step Event
-for object Spring4:
-
-Error in code at line 1:   if (p3dc_check(Level.collision_player, Camera.x, Camera.y, Camera.z+Camera.zspeed, Spring1.collision_enemy1, 0, 0, 0)==true){                                                                                             ^at position 92: Unknown variable collision_enemy1
-
-
